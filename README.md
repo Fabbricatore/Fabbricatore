@@ -2,7 +2,6 @@
 - 👀 I’m interested in Physics-inspired Machine Learning algorithms
 - 🌱 I’m currently learning Montecarlo Tree Search
 - 💞️ I’m looking to collaborate on Reinforcement Learning for Game AI
-- 📫 How to reach me: ri.fabbricatore@gmail.com
 
 <!---
 Fabbricatore/Fabbricatore is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
